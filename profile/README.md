@@ -83,4 +83,4 @@ Research and content: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/
 ## Contact
 
 Admins: `[PLACEHOLDER: shared email address]`
-Discord: [discord.gg/7zKAh7dr](https://discord.gg/7zKAh7dr)
+Discord: [discord.gg/8ZrxF9qU](https://discord.gg/8ZrxF9qU)
