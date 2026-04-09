@@ -49,6 +49,13 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 | [How we work](https://github.com/Entropic-Science/community/blob/main/HOW_WE_WORK.md) | Tools, communication, weekly rhythm |
 | [Contributing guide](https://github.com/Entropic-Science/community/blob/main/CONTRIBUTING.md) | How to participate and contribution types |
 
+## Active projects
+
+| Project | Description |
+|---------|-------------|
+| [qr-sampler](https://github.com/Entropic-Science/qr-sampler) | Integrate any source of randomness into LLM token sampling — modular profiles for inference engines, entropy sources, sampling methods |
+| [knowledge-base](https://github.com/Entropic-Science/knowledge-base) | Central knowledge base — shared library, division boards (rosters, proposals, active projects) |
+
 ## Workstreams
 
 | Workstream | Scope |
